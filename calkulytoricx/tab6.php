@@ -1,0 +1,1 @@
+<p><input name="english" type="checkbox" id="english" value="english"<?if(!empty($_POST['english'])){ echo 'checked';}?> > Eng язык</p>

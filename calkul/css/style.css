@@ -1,0 +1,17 @@
+fieldset{
+  width:280px;
+  margin-bottom:20px;
+  height:270px;
+  padding:20px;
+  padding-left:90px !important;
+  line-height:15px;
+
+
+
+.btn{
+	width:395px;
+	color: #25b7bf;
+	font-size: 18px;
+   font-weight: 700;
+   margin-bottom:20px;
+}

@@ -1,0 +1,1 @@
+<p><input name="log" type="checkbox" id="log" value="log"<?if(!empty($_POST['log'])){ echo 'checked';}?> > Логирование</p>

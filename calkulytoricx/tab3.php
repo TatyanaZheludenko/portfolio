@@ -1,0 +1,1 @@
+<p><input name="news" type="checkbox" id="news" value="news"<?if(!empty($_POST['news'])){ echo 'checked';}?> > Новости</p>
